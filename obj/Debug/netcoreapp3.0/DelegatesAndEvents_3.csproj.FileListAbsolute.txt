@@ -1,0 +1,11 @@
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\bin\Debug\netcoreapp3.0\DelegatesAndEvents_3.exe
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\bin\Debug\netcoreapp3.0\DelegatesAndEvents_3.deps.json
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\bin\Debug\netcoreapp3.0\DelegatesAndEvents_3.runtimeconfig.json
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\bin\Debug\netcoreapp3.0\DelegatesAndEvents_3.runtimeconfig.dev.json
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\bin\Debug\netcoreapp3.0\DelegatesAndEvents_3.dll
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\bin\Debug\netcoreapp3.0\DelegatesAndEvents_3.pdb
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\obj\Debug\netcoreapp3.0\DelegatesAndEvents_3.csprojAssemblyReference.cache
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\obj\Debug\netcoreapp3.0\DelegatesAndEvents_3.AssemblyInfoInputs.cache
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\obj\Debug\netcoreapp3.0\DelegatesAndEvents_3.AssemblyInfo.cs
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\obj\Debug\netcoreapp3.0\DelegatesAndEvents_3.dll
+C:\Users\jshaw\Desktop\C_Sharp\CSharpAdvTutorials\DelegatesAndEvents_3\obj\Debug\netcoreapp3.0\DelegatesAndEvents_3.pdb
